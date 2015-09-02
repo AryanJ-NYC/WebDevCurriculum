@@ -39,7 +39,7 @@
 # CSS
 [CSS Reference](http://www.w3schools.com/cssref/default.asp)
 ```css
-p {
+body {
   font-size: 12px;
   background-color: red;
 }
@@ -53,14 +53,19 @@ This is a paragraph with a red backgrund and 12px letters.
 In the example above, *p* is the **selector**, *font-size* and *background-color* are known as the **properties** and *12px* and *red* are known as **values**.
 
 ## Classes
-The .class selector styles all elements with the specified class.  As a convention, web developers use classes to *select* multiple HTML elements.
+The .class selector styles all elements with the specified class.  As a convention, web developers use classes to *select* multiple HTML elements.  
+Example:
+`<p>This will have margins and a border!</p>`
 ```css
 .intro {
   margin-left: 10px;
   margin-right: 10px;
+  border: 5px solid red;
 ```
 ## IDs
-The #id selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.
+The #id selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.  
+Example:  
+`<p id="myid">This will be cyan!</p>`
 ```css
   #myid {
     color: cyan;
@@ -69,4 +74,6 @@ The #id selector styles the element with the specified id.  AS a convention, web
 
 
 # Enough Reading, Let's Write!
-## Create the following accounts
+Create accounts at the following sites:
+1. [FreeCodeCamp](http://www.freecodecamp.com/)
+2. [Codecademy](https://www.codecademy.com/)
