@@ -21,4 +21,3 @@ Now continue with the [Bootstrap exercises on FreeCodeCamp](http://www.freecodec
 ### Homework
 1. Finish the [Bootstrap exercises on FreeCodeCamp](http://www.freecodecamp.com/map#responsive-design-with-bootstrap).
 2. [Codecademy's Bootstrap Project](https://www.codecademy.com/en/skills/make-a-website/topics/bootstrap-components/bootstrap-intro).
-3. 
