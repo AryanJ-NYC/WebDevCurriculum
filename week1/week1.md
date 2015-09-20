@@ -1,6 +1,7 @@
 # HTML  
 [HTML Reference](http://www.w3schools.com/tags/default.asp)  
-[Practice what you learned](https://thimble.mozilla.org/)
+[Use Thimble to practice what you learn](https://thimble.mozilla.org/)  
+[Use CodePen to practice what you learn](http://codepen.io)
 ## Tag Examples
 `<p>This is a paragraph</p>`  
 `<h1>This is a heading</h1>`  
@@ -72,12 +73,11 @@ Example:
   }
 ```
 
-
 # Enough Reading, Let's Write!
 Create accounts at the following sites:
 1. [FreeCodeCamp](http://www.freecodecamp.com/)
 2. [Codecademy](https://www.codecademy.com/)
 
 # Homework
-1. Complete the HTML & CSS sections of FreeCodeCamp and Codecademy.
-2. Play with HTML & CSS using [Thimble](https://thimble.mozilla.org/).
+1. Complete the HTML & CSS sections of [FreeCodeCamp](http://www.freecodecamp.com/) and [Codecademy](https://www.codecademy.com/).
+2. Play with HTML & CSS using [Thimble](https://thimble.mozilla.org/) or [CodePen](http://codepen.io).
