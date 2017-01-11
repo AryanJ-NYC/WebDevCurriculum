@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "CSS"
+date:   2017-01-11
+tags: webdev html
+---
+
+[CSS Reference](http://www.w3schools.com/cssref/default.asp)
+```css
+body {
+  font-size: 12px;
+  background-color: red;
+}
+```
+OR
+
+```html
+<p style="font-size:12px;background-color:red">
+This is a paragraph with a red backgrund and 12px letters.
+</p>
+```
+
+In the example above, *p* is the **selector**, *font-size* and *background-color* are known as the **properties** and *12px* and *red* are known as **values**.
+
+## Elements
+The **elements** selector styles ***ALL*** elements of a specific type.
+Example:
+```html
+<p>I will be red.</p>
+<p>Me too!</p>
+```
+
+```css
+p {
+  color: red;
+}
+```
+
+## Classes
+The **.class** selector styles all elements with the specified class.  As a convention, web developers use classes to select multiple HTML elements.  
+Example:
+`<p class="intro">This will have margins and a border!</p>`
+
+```css
+.intro {
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 5px solid red;
+}
+```
+
+## IDs
+The **#id** selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.  
+Example:  
+`<p id="myid">This will be cyan!</p>`
+
+```css
+#myid {
+  color: cyan;
+}
+```
+
+Learn more selectors [here](http://www.w3schools.com/cssref/css_selectors.asp).

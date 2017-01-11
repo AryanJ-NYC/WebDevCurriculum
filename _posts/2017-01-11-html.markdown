@@ -1,11 +1,27 @@
-# HTML  
+---
+layout: post
+title:  "HTML"
+date:   2017-01-11
+tags: webdev html
+---
 [HTML Reference](http://www.w3schools.com/tags/default.asp)  
 [Use Thimble to practice what you learn](https://thimble.mozilla.org/)  
 [Use CodePen to practice what you learn](http://codepen.io)
+
+## Standard HTML Skeleton
+```html
+<!DOCTYPE HTML>
+<html>
+  <head></head> <!-- meta information goes here -->
+  <body></body> <!-- actual content goes here -->
+</html>
+```
+
 ## Tag Examples
 `<p>This is a paragraph</p>`  
 `<h1>This is a heading</h1>`  
 `<a href="http://www.google.com">This is a link to Google.</a>`
+
 ## Nested Tags  
 ```html
 <div>
@@ -29,14 +45,8 @@
   <li>Ham</li>
   <li>Cheese</li>
 </ul>
-## Standard HTML Skeleton
-```html
-<! DOCTYPE HTML>
-<html>
-  <head></head> <!-- meta information goes here -->
-  <body></body> <!-- actual content goes here -->
-</html>
 ```
+
 # CSS
 [CSS Reference](http://www.w3schools.com/cssref/default.asp)
 ```css
