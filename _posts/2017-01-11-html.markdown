@@ -3,6 +3,7 @@ layout: post
 title:  "HTML"
 date:   2017-01-11
 tags: webdev html
+categories: webdev html basics
 ---
 [HTML Reference](http://www.w3schools.com/tags/default.asp)  
 [Use Thimble to practice what you learn](https://thimble.mozilla.org/)  
@@ -28,7 +29,9 @@ tags: webdev html
   <p>This is another paragraph</p>
 </div>
 ```
+
 ## Lists
+
 ### Ordered List
 ```html
 <ol>
@@ -38,6 +41,7 @@ tags: webdev html
   <li>Put both slices of bread together</li>
 <ol>
 ```
+
 ### Unordered List
 ```html
 <ul>
@@ -47,44 +51,9 @@ tags: webdev html
 </ul>
 ```
 
-# CSS
-[CSS Reference](http://www.w3schools.com/cssref/default.asp)
-```css
-body {
-  font-size: 12px;
-  background-color: red;
-}
-```
-OR
-```html
-<p style="font-size:12px;background-color:red">
-This is a paragraph with a red backgrund and 12px letters.
-</p>
-```
-In the example above, *p* is the **selector**, *font-size* and *background-color* are known as the **properties** and *12px* and *red* are known as **values**.
-
-## Classes
-The .class selector styles all elements with the specified class.  As a convention, web developers use classes to *select* multiple HTML elements.  
-Example:
-`<p>This will have margins and a border!</p>`
-```css
-.intro {
-  margin-left: 10px;
-  margin-right: 10px;
-  border: 5px solid red;
-```
-## IDs
-The #id selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.  
-Example:  
-`<p id="myid">This will be cyan!</p>`
-```css
-  #myid {
-    color: cyan;
-  }
-```
-
-# Enough Reading, Let's Write!
+# Enough Reading, Let's Code!
 Create accounts at the following sites:
+
 1. [FreeCodeCamp](http://www.freecodecamp.com/)
 2. [Codecademy](https://www.codecademy.com/)
 
