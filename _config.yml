@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Web Development and Life Things
+title: Beginner Web Development Resources
 email: Aryan.Jabbari21@qmail.cuny.edu
 description: > # this means to ignore newlines until "baseurl:"
   I wrote this to help others learn web development.  If helpful, I will continue to post
