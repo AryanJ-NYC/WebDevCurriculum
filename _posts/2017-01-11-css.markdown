@@ -18,13 +18,19 @@ OR
 
 ```html
 <p style="font-size:12px;background-color:red">
-This is a paragraph with a red backgrund and 12px letters.
+  This is a paragraph with a red backgrund and 12px letters.
 </p>
 ```
 
-In the example above, *p* is the **selector**, *font-size* and *background-color* are known as the **properties** and *12px* and *red* are known as **values**.
+In the examples above, *body* and *p* are the **selectors**.
+*font-size* and *background-color* are known as the **properties**.
+*12px* and *red* are known as **values**.
 
-## Elements
+What do selectors do? Properties? Values?
+
+## Types of Selectors
+
+### Elements
 The **elements** selector styles ***ALL*** elements of a specific type.
 Example:
 
@@ -39,7 +45,7 @@ p {
 }
 ```
 
-## Classes
+### Classes
 The **.class** selector styles all elements with the specified class.  As a convention, web developers use classes to select multiple HTML elements.  
 Example:
 `<p class="intro">This will have margins and a border!</p>`
@@ -52,7 +58,7 @@ Example:
 }
 ```
 
-## IDs
+### IDs
 The **#id** selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.  
 Example:  
 `<p id="myid">This will be cyan!</p>`
@@ -63,14 +69,15 @@ Example:
 }
 ```
 
+## CSS Box Model
+Please review the [CSS box model](https://www.w3schools.com/css/css_boxmodel.asp).
+
 Learn more selectors [here](http://www.w3schools.com/cssref/css_selectors.asp).
 
 # Enough Reading, Let's Code!
-Create accounts at the following sites:
-
-1. [FreeCodeCamp](https://www.freecodecamp.com/)
-2. [Codecademy](https://www.codecademy.com/)
+1. Use [Thimble](https://thimble.mozilla.org/) to [create the Android logo](http://thecodeplayer.com/walkthrough/css3-android-logo) with only HTML and CSS.
+2. Do the CSS track on [Codecademy](https://www.codecademy.com/)
 
 # Homework
-1. Complete the HTML & CSS sections of [FreeCodeCamp](http://www.freecodecamp.com/) and [Codecademy](https://www.codecademy.com/).
+1. Complete the CSS section of [FreeCodeCamp](http://www.freecodecamp.com/).
 2. Play with HTML & CSS using [Thimble](https://thimble.mozilla.org/) or [CodePen](http://codepen.io).
