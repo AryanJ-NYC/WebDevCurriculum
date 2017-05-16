@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 **Who are you?** I'm just a guy looking to help others learn how write some code. I hope to hold regular Meetups in Queens.
 
 **Queens meetups?** Yup! Join our [Facebook Group](https://www.facebook.com/groups/free.code.camp.queens.ny/) to make sure you don't miss any.

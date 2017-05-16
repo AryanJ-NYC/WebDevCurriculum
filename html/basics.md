@@ -1,15 +1,8 @@
----
-layout: post
-title:  "HTML"
-date:   2017-01-11
-tags: webdev html
-categories: webdev html basics
----
 [HTML Reference](http://www.w3schools.com/tags/default.asp)  
 [Use Thimble to practice what you learn](https://thimble.mozilla.org/)  
 [Use CodePen to practice what you learn](http://codepen.io)
 
-## Standard HTML Skeleton
+# Standard HTML Skeleton
 ```html
 <!DOCTYPE HTML>
 <html>
@@ -18,29 +11,29 @@ categories: webdev html basics
 </html>
 ```
 
-## Tag Examples
+# Tag Examples
 `<p>This is a paragraph</p>`  
 `<h1>This is a heading</h1>`  
 `<a href="http://www.google.com">This is a link to Google.</a>`
 
-### Links
+## Links
 `<a href="http://www.google.com">This is a link to Google.</a>`
 
-### Images
+## Images
 `<img src="http://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-8.jpg" alt="Cute dog" />`
 
 What is alt?
 
-## Nested Tags  
+# Nested Tags  
 ```html
 <div>
   <p>This is another paragraph</p>
 </div>
 ```
 
-## Lists
+# Lists
 
-### Ordered List
+## Ordered List
 ```html
 <ol>
   <li>Toast bread</li>
@@ -50,7 +43,7 @@ What is alt?
 <ol>
 ```
 
-### Unordered List
+## Unordered List
 ```html
 <ul>
   <li>Bread</li>
@@ -59,7 +52,7 @@ What is alt?
 </ul>
 ```
 
-## Enough Reading, Let's Code!
+# Enough Reading, Let's Code!
 1. Using [Thimble](https://thimble.mozilla.org/), write a shopping *list*
 2. Link elements of your shopping list to webpages. Challenge: how can we get the page to pop-up in a new tab?
 3. Add a picture under each item of the list
@@ -72,6 +65,6 @@ Create accounts at the following sites:
 1. [FreeCodeCamp](http://www.freecodecamp.com/)
 2. [Codecademy](https://www.codecademy.com/)
 
-## Homework
+# Homework
 1. Complete the HTML & CSS sections of [FreeCodeCamp](http://www.freecodecamp.com/) and [Codecademy](https://www.codecademy.com/).
 2. Play with HTML & CSS using [Thimble](https://thimble.mozilla.org/) or [CodePen](http://codepen.io).

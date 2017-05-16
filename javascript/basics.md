@@ -1,16 +1,8 @@
----
-layout: post
-title:  "JavaScript"
-date:   2017-03-28
-tags: webdev javascript
-categories: webdev javascript basics
----
-
 `console.log('Hello, World!')`
 
-## Common JavaScript syntax
+# Common JavaScript syntax
 
-### Variable declarations
+## Variable declarations
 Use `const` for values that cannot change.  Use `let` otherwise.
 
 Rule of thumb: Always use `const` unless absolutely necessary.
@@ -22,7 +14,7 @@ let willChange = 2;
 
 Maybe you're wondering about value types.  Read [this](http://stackoverflow.com/questions/964910/is-javascript-an-untyped-language) for an explanation.
 
-### If/else statement
+## If/else statement
 ```javascript
 if (booleanExpression) {
     doSomething();
@@ -33,21 +25,21 @@ if (booleanExpression) {
 }
 ```
 
-### While loop
+## While loop
 ```javascript
 while (booleanExpression) {
     doSomething();
 }
 ```
 
-### For loop
+## For loop
 ```javascript
 for (let i = 0; i < someArray.length; i++) {
     doSomething(i);
 }
 ```
 
-### Functions
+## Functions
 ```javascript
 function myFunction(a, b) {
     return a * b;
@@ -61,7 +53,7 @@ const myFunction = function (a, b) {
 }
 ```
 
-### Objects
+## Objects
 ```javascript
 let objName = {
     key1: 1,
@@ -80,12 +72,12 @@ console.log('I love ' + objName.schoolName);
 console.log('I dislike ' + objName[schoolName]);
 ```
 
-## Enough Reading, Let's Code!
+# Enough Reading, Let's Code!
 We will use [repl.it](https://repl.it/languages/javascript) to run the JavaScript code. It's suggested you save your examples to a `.js` file.
 
 1. Write a function that logs a different greeting for various different userNames. Try changing the userName at the top and see the different greetings be logged.
 2. Write a function that logs the numbers from 1 to n. For multiples of three, log "Fizz" instead of that number.  For the multiples of five, log "Buzz" instead of that number. For multiples of both three and five, log "FizzBuzz" instead.
 
-## Homework
+# Homework
 1. Complete the JavaScript section of [Codecademy](https://www.codecademy.com/learn/javascript).
 2. Get as far as possible in the JavaScript section of [Free Code Camp](http://www.freecodecamp.com).

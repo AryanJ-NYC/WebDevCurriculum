@@ -1,11 +1,3 @@
----
-layout: post
-title:  "CSS"
-date:   2017-01-11
-tags: webdev html
-categories: webdev css basics
----
-
 [CSS Reference](http://www.w3schools.com/cssref/default.asp)
 
 ```css
