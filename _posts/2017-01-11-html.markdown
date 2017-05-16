@@ -59,7 +59,7 @@ What is alt?
 </ul>
 ```
 
-# Enough Reading, Let's Code!
+## Enough Reading, Let's Code!
 1. Using [Thimble](https://thimble.mozilla.org/), write a shopping *list*
 2. Link elements of your shopping list to webpages. Challenge: how can we get the page to pop-up in a new tab?
 3. Add a picture under each item of the list
@@ -72,6 +72,6 @@ Create accounts at the following sites:
 1. [FreeCodeCamp](http://www.freecodecamp.com/)
 2. [Codecademy](https://www.codecademy.com/)
 
-# Homework
+## Homework
 1. Complete the HTML & CSS sections of [FreeCodeCamp](http://www.freecodecamp.com/) and [Codecademy](https://www.codecademy.com/).
 2. Play with HTML & CSS using [Thimble](https://thimble.mozilla.org/) or [CodePen](http://codepen.io).
