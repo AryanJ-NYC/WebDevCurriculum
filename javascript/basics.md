@@ -104,5 +104,5 @@ We will use [repl.it](https://repl.it/languages/javascript) to run the JavaScrip
 4. [Cat and Mouse](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/objects-exercises.md#q6-javascript-simple-objects-3)
 
 # Homework
-1. Complete the JavaScript section of [Codecademy](https://www.codecademy.com/learn/javascript).
+1. Complete the JavaScript section of [Codecademy](https://www.codecademy.com/learn/learn-javascript).
 2. Get as far as possible in the JavaScript section of [Free Code Camp](http://www.freecodecamp.com).

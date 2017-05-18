@@ -46,7 +46,8 @@ For example, if you want a branch that start off looking like the master branch 
 
 # Homework
 1. Complete CodeSchool's [Try Git](https://www.codeschool.com/courses/try-git) course.
-2. Sign up for [GitHub](http://www.github.com).
+2. Complete Codecademy's [Learn Git](https://www.codecademy.com/learn/learn-git) course.
+3. Sign up for [GitHub](http://www.github.com).
 
 # Resources
 [Git Init - Egghead Video](https://egghead.io/lessons/misc-practical-git-create-local-repos-with-git-init?course=practical-git-for-everyday-professional-use)  

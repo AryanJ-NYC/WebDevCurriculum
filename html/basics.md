@@ -72,5 +72,5 @@ Create accounts at the following sites:
 2. [Codecademy](https://www.codecademy.com/)
 
 # Homework
-1. Complete the HTML & CSS sections of [FreeCodeCamp](http://www.freecodecamp.com/) and [Codecademy](https://www.codecademy.com/).
+1. Complete the HTML & CSS sections of [FreeCodeCamp](http://www.freecodecamp.com/) and [Codecademy](https://www.codecademy.com/learn/learn-html-css).
 2. Play with HTML & CSS using [Thimble](https://thimble.mozilla.org/) or [CodePen](http://codepen.io).
