@@ -75,8 +75,8 @@ console.log('I dislike ' + objName[schoolName]);
 # Enough Reading, Let's Code!
 We will use [repl.it](https://repl.it/languages/javascript) to run the JavaScript code. It's suggested you save your examples to a `.js` file.
 
-1. Write a function that logs a different greeting for various different userNames. Try changing the userName at the top and see the different greetings be logged.
-2. Write a function that logs the numbers from 1 to n. For multiples of three, log "Fizz" instead of that number.  For the multiples of five, log "Buzz" instead of that number. For multiples of both three and five, log "FizzBuzz" instead.
+1. Write a function that logs the numbers from 1 to n. For multiples of three, log "Fizz" instead of that number.  For the multiples of five, log "Buzz" instead of that number. For multiples of both three and five, log "FizzBuzz" instead.
+2. Write two functions, one named `celsiusToFahrenheit` and the other named `fahrenheitToCelsius.`  `celsiusToFahrenheit` should take in a celsius temperature as an argument and convert it to fahrenheit. Similarly, `fahrenheitToCelsius` should take in a fahrenheit temperature as an argument and convert it to celsius.
 
 # Homework
 1. Complete the JavaScript section of [Codecademy](https://www.codecademy.com/learn/javascript).

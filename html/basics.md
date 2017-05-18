@@ -12,15 +12,21 @@
 ```
 
 # Tag Examples
-`<p>This is a paragraph</p>`  
-`<h1>This is a heading</h1>`  
-`<a href="http://www.google.com">This is a link to Google.</a>`
+```html
+<p>This is a paragraph</p>
+<h1>This is a heading</h1>
+<a href="http://www.google.com">This is a link to Google.</a>
+```
 
 ## Links
-`<a href="http://www.google.com">This is a link to Google.</a>`
+```html
+<a href="http://www.google.com">This is a link to Google.</a>
+```
 
 ## Images
-`<img src="http://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-8.jpg" alt="Cute dog" />`
+```html
+<img src="http://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-8.jpg" alt="Cute dog" />
+```
 
 What is alt?
 
@@ -53,10 +59,10 @@ What is alt?
 ```
 
 # Enough Reading, Let's Code!
-1. Using [Thimble](https://thimble.mozilla.org/), write a shopping *list*
+1. Using [Thimble](https://thimble.mozilla.org/), write a shopping *list*.
 2. Link elements of your shopping list to webpages. Challenge: how can we get the page to pop-up in a new tab?
-3. Add a picture under each item of the list
-4. Make sure your code is well-organized (check that indendation!)
+3. Add a picture under each item of the list.
+4. Make sure your code is well-organized (check that indendation!).
 5. Copy and paste your HTML to a file named `index.html` on your local machine.
 6. Open that file using your browser.
 

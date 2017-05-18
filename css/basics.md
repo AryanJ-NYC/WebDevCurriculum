@@ -40,7 +40,9 @@ p {
 ### Classes
 The **.class** selector styles all elements with the specified class.  As a convention, web developers use classes to select multiple HTML elements.  
 Example:
-`<p class="intro">This will have margins and a border!</p>`
+```html
+<p class="intro">This will have margins and a border!</p>
+```
 
 ```css
 .intro {
@@ -53,7 +55,9 @@ Example:
 ### IDs
 The **#id** selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.  
 Example:  
-`<p id="myid">This will be cyan!</p>`
+```html
+<p id="myid">This will be cyan!</p>
+```
 
 ```css
 #myid {
