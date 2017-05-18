@@ -41,7 +41,7 @@ for (let i = 0; i < someArray.length; i++) {
 
 ## Functions
 ```javascript
-function myFunction(a, b) {
+function myFunction (a, b) {
     return a * b;
 }
 ```
@@ -51,6 +51,29 @@ OR
 const myFunction = function (a, b) {
     return a * b;
 }
+```
+
+Please keep in mind that we can pass functions as arguments. This is a common source of confusion.
+See question 2 below for practice with this.
+
+```javascript
+function doer (functionArg, elementArg1, elementArg2) {
+  return functionArg(elementArg1, elementArg2);
+}
+
+function sum (a, b) {
+  return a + b;
+}
+
+function difference (a, b) {
+  return a - b;
+}
+
+const a = 7,
+      b = 5;
+
+doer(sum, a, b); // returns 12
+doer(difference, a, b); // returns 2
 ```
 
 ## Objects
@@ -76,7 +99,9 @@ console.log('I dislike ' + objName[schoolName]);
 We will use [repl.it](https://repl.it/languages/javascript) to run the JavaScript code. It's suggested you save your examples to a `.js` file.
 
 1. Write a function that logs the numbers from 1 to n. For multiples of three, log "Fizz" instead of that number.  For the multiples of five, log "Buzz" instead of that number. For multiples of both three and five, log "FizzBuzz" instead.
-2. Write two functions, one named `celsiusToFahrenheit` and the other named `fahrenheitToCelsius.`  `celsiusToFahrenheit` should take in a celsius temperature as an argument and convert it to fahrenheit. Similarly, `fahrenheitToCelsius` should take in a fahrenheit temperature as an argument and convert it to celsius.
+2. [Action](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q11-javascript-functions-7)
+3. [Temperature Converter](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q7-temperature-converter)
+4. [Cat and Mouse](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/objects-exercises.md#q6-javascript-simple-objects-3)
 
 # Homework
 1. Complete the JavaScript section of [Codecademy](https://www.codecademy.com/learn/javascript).
