@@ -4,5 +4,6 @@
 * [CSS](css/basics.md)
 * [JavaScript](javascript/intro.md)
   * [Basics](javascript/basics.md)
+  * [Common Array Functions](javascript/array-functions.md)
   * [ES6 Changes](javascript/es6.md)
 * [Git](git/basics.md)
