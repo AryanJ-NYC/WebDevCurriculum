@@ -2,6 +2,7 @@
 
 * [HTML](html/basics.md)
 * [CSS](css/basics.md)
+* [Twitter Bootstrap](bootstrap/intro.md)
 * [JavaScript](javascript/intro.md)
   * [Basics](javascript/basics.md)
   * [Common Array Functions](javascript/array-functions.md)
