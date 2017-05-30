@@ -50,7 +50,7 @@ const arr = [1, 2, 3, 4, 5];
 const squared = arr.map(elem => elem**2); // [2, 4, 9, 16, 25]
 ```
 Please note:
-1. If no brackets are used for the body, only one expression can be written and that expression will be returned.
+1. If no brackets are used to surround the body, only one expression can be written and that expression will be returned.
 2. A single parameter does not need to be wrapped in parentheses (though it can be).  Zero or multiple parameters must be wrapped in parentheses.
 
 Similarly, in ECMAScript 5:
@@ -79,9 +79,7 @@ var artistName = 'prince',
 
 For more about the changes made from ES5 to ES6, visit [es6features](https://github.com/lukehoban/es6features).
 
-# Enough Reading, Let's Code!
-We will use [repl.it](https://repl.it/languages/javascript) to run the JavaScript code. It's suggested you save your examples to a `.js` file.
-
+# Classwork
 1. Write a function that logs the numbers from 1 to n. For multiples of three, log "Fizz" instead of that number.  For the multiples of five, log "Buzz" instead of that number. For multiples of both three and five, log "FizzBuzz" instead.
 2. [Action](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q11-javascript-functions-7)
 3. [Temperature Converter](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q7-temperature-converter)

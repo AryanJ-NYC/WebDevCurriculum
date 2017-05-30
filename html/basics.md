@@ -58,7 +58,7 @@ What is alt?
 </ul>
 ```
 
-# Enough Reading, Let's Code!
+# Classwork
 1. Using [Thimble](https://thimble.mozilla.org/), write a shopping *list*.
 2. Link elements of your shopping list to webpages. Challenge: how can we get the page to pop-up in a new tab?
 3. Add a picture under each item of the list.

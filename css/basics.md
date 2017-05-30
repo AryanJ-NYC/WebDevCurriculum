@@ -20,9 +20,9 @@ In the examples above, *body* and *p* are the **selectors**.
 
 What do selectors do? Properties? Values?
 
-## Types of Selectors
+# Types of Selectors
 
-### Elements
+## Elements
 The **elements** selector styles ***ALL*** elements of a specific type.
 Example:
 
@@ -37,7 +37,7 @@ p {
 }
 ```
 
-### Classes
+## Classes
 The **.class** selector styles all elements with the specified class.  As a convention, web developers use classes to select multiple HTML elements.  
 Example:
 ```html
@@ -52,7 +52,7 @@ Example:
 }
 ```
 
-### IDs
+## IDs
 The **#id** selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.  
 Example:  
 ```html
@@ -65,15 +65,15 @@ Example:
 }
 ```
 
-## CSS Box Model
+# CSS Box Model
 Please review the [CSS box model](https://www.w3schools.com/css/css_boxmodel.asp).
 
 Learn more selectors [here](http://www.w3schools.com/cssref/css_selectors.asp).
 
-## Enough Reading, Let's Code!
+# Classwork
 1. Use [Thimble](https://thimble.mozilla.org/) to [create the Android logo](http://thecodeplayer.com/walkthrough/css3-android-logo) with only HTML and CSS.
 2. Do the HTML & CSS track on [Codecademy](https://www.codecademy.com/)
 
-## Homework
+# Homework
 1. Complete the CSS section of [FreeCodeCamp](http://www.freecodecamp.com/).
 2. Recreate the [Google homepage](https://www.google.com/).  Focus on the middle image and search bar; leave the header and footer for last.
