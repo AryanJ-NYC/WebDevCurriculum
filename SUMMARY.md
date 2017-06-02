@@ -9,4 +9,6 @@
   * [Common Array Functions](javascript/array-functions.md)
   * [Map, Reduce, Filter](javascript/map-reduce-filter.md)
   * [ES6 Changes](javascript/es6.md)
+* [Document Object Model](dom/intro.md)
+  * [DOM Manipulation](dom/dom-manipulation.md)
 * [Git](git/basics.md)
