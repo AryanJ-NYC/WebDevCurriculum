@@ -1,5 +1,5 @@
 # DOM Manipulation
-Let's try a quick example.  Copy and paste the following into your browser's console:
+Let's try a quick example.  Type the following into your browser's console:
 ```javascript
 document.getElementById('dom-manipulation').innerText = 'it\'s happening!';
 ```
@@ -52,3 +52,8 @@ The following exercise must be done using 100% DOM manipulation. Do **not** modi
 14. Append the `li` items to the `ul`.
 15. Add the class *list-item* to each of the `li` elements.
 16. Add the `id` *main-list* to the `ul`.
+
+Save this as you will continue to work on this in the [next lesson](./event-listeners.html).
+
+# Resources
+1. [Selecting & Changing Website Elements (DOM manipulation) - Beau teaches JavaScript](https://www.youtube.com/watch?v=eaLKqoB9Fu0&list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)

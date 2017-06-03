@@ -4,6 +4,7 @@
 * [CSS](css/basics.md)
 * [Twitter Bootstrap](bootstrap/intro.md)
   * [Grid System](bootstrap/grid.md)
+* [Git](git/basics.md)
 * [JavaScript](javascript/intro.md)
   * [Basics](javascript/basics.md)
   * [Common Array Functions](javascript/array-functions.md)
@@ -11,4 +12,4 @@
   * [ES6 Changes](javascript/es6.md)
 * [Document Object Model](dom/intro.md)
   * [DOM Manipulation](dom/dom-manipulation.md)
-* [Git](git/basics.md)
+  * [Event Listeners](dom/event-listeners.md)
