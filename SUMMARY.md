@@ -13,3 +13,5 @@
 * [Document Object Model](dom/intro.md)
   * [DOM Manipulation](dom/dom-manipulation.md)
   * [Event Listeners](dom/event-listeners.md)
+* [Hypertext Transfer Protocol](http/intro.md)
+  * [Making Requests](http/making-requests.md)

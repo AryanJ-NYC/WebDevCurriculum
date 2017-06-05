@@ -24,7 +24,7 @@ What other methods and properties can we use to manipulate the DOM?
 
 **Note:** These exercises require going into the DOM documentation as some necessary methods and properties were not described on this page.
 
-# In-Class Exercise
+# Class Exercise
 ## Setup
 
 1. Create a new [Thimble](https://thimble.mozilla.org/en-US/) project or a new folder on your local machine (using your local machine is better practice for real-world projects).
