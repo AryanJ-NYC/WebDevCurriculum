@@ -89,7 +89,7 @@ Try this tag in Google Chrome. Now Mozilla Firefox or Safari. What happens?
   <li>Put ham on bread</li>
   <li>Put cheese on bread</li>
   <li>Put both slices of bread together</li>
-<ol>
+</ol>
 ```
 
 ## Unordered List
