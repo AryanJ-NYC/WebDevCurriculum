@@ -27,22 +27,39 @@ Initializes a git repository in [directory].  If [directory] is not specified, a
 ## [Add files to be staged](https://git-scm.com/docs/git-add)
 `git add [<path>]`
 
-Stages all (`git add .`)  or some files (`git add this_file.txt`) in directory.
+Stage all (`git add .`)  or some files (`git add this_file.txt`) in directory.
 
 ## [Make a commit](https://git-scm.com/docs/git-commit)
 `git commit [-m <msg>]`
 
-## Create (and go to) New Branch
+## [Amend the Previous Commit](https://git-scm.com/docs/git-commit#git-commit---amend)
+```bash
+git add <path-to-files-or-folder>
+git commit --amend
+```
+Enter the commands above after fixing (and saving) the necessary files.
+
+## [Create a New Branch](https://git-scm.com/docs/git-branch)
+`git branch <new-branch-name>`
+
+## [Delete a Branch](https://git-scm.com/docs/git-branch#git-branch--d)
+*Note*: This will only work if the branch has been fully merged into its upstream branch (usually `master`).  
+`git branch -d <branch-name>`
+
+## [Go to an Existing Branch](https://git-scm.com/docs/git-checkout)
+`git checkout <branch-name>`
+
+## [Create (and go to) New Branch](https://git-scm.com/docs/git-checkout#git-checkout--bltnewbranchgt)
 `git checkout -b <branch-name>`
 
 Creates and goes to a branch of branch-name.
 
-*Important:* Remember to run this command while in the branch you want to branch from.
-
+**Important:** Remember to run this command while in the branch you want to branch from.  
 For example, if you want a branch that start off looking like the master branch (common), create the new branch off the master branch.
 
-## Go to an Existing Branch
-`git checkout <branch-name>`
+## [Merge Branches](https://git-scm.com/docs/git-merge)
+**Note:** HEAD must point to (you must be on) the branch you want to merge into.  <branch-name> below is the branch you want to merge into HEAD.  
+`git merge <branch-name>`
 
 # Homework
 1. Complete CodeSchool's [Try Git](https://www.codeschool.com/courses/try-git) course.
