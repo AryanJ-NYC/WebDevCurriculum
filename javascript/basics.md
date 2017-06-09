@@ -47,8 +47,7 @@ var myFunction = function (a, b) {
 }
 ```
 
-Please keep in mind that we can pass functions as arguments. This is a common source of confusion.
-See question 2 below for practice with this.
+Please keep in mind that we can pass functions as arguments.  This is a common source of confusion.
 
 ```javascript
 function doer (functionArg, elementArg1, elementArg2) {

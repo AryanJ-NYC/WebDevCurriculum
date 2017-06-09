@@ -79,7 +79,7 @@ if (a.indexOf(7) === -1) {
   // element doesn't exist in array
 }
 ```
-How can we test if element DOES exist in the array?
+How can we test if an element DOES exist in the array?
 
 # Classwork
 1. [Stringify Two Arrays](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q7-stringify-two-arrays)
