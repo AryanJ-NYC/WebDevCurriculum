@@ -28,7 +28,7 @@ while (booleanExpression) {
 
 ## For loop
 ```javascript
-for (let i = 0; i < someArray.length; i++) {
+for (var i = 0; i < someArray.length; i++) {
     doSomething(i);
 }
 ```

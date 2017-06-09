@@ -1,3 +1,4 @@
+All section headers are linked to the appropriate documentation.  Use the links for more information.
 # [Slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 ```javascript
 var arr = ['a', 'b', 'c', 'd'];
@@ -81,6 +82,7 @@ if (a.indexOf(7) === -1) {
 How can we test if element DOES exist in the array?
 
 # Classwork
-1. [Array String Plus](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q11-array-string-plus)
-2. [Array Double Challenge](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q13-array-double-challenge)
-3. [Array Sum Challenge](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q14-array-sum-challenge)
+1. [Stringify Two Arrays](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q7-stringify-two-arrays)
+2. [Remove from Array](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q10-remove-from-array)
+3. [Array String Plus](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q11-array-string-plus)
+4. [Array Last to First](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q12-array-last-to-first)
