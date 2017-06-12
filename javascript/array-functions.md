@@ -1,6 +1,6 @@
 All section headers are linked to the appropriate documentation.  Use the links for more information.
 # [Slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
-The slice method takes two *optional* parameters, the start of the slice and the end of the slice.  
+The slice() method returns a copy of the array.  It takes two *optional* parameters, the start of the slice and the end of the slice.  
 If no parameters are passed to slice(), a copy of the array is returned.  
 If one parameter, *start*, is passed to slice(), a copy of the string from *start* (inclusive) to the end of the string is returned.  
 If two parameters are passed to slice(), *start* and *end*, a copy of the string from *start* (inclusive) to *end* (exclusive) is returned.
@@ -12,11 +12,17 @@ var sliced = arr.slice(0, 2); // [a, b]
 ```
 
 # [Splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+The splice() method adds or removes elements from an array and returns an array containing the deleted elements.
+It takes an infinite number of parameters.
+The first parameter, *index*, is the index where the splice begins.
+The second parameter, *howMany*, refers to the number of elements to delete.
+The next parameters, *elementToAdd1* through *elementToAdd1X*, adds those elements at index *index*.
+
 ```javascript
 var myFish = ['angel', 'clown', 'mandarin', 'sturgeon'];
 
-myFish.splice(2, 0, 'drum'); // insert 'drum' at 2-index position
-// myFish is ["angel", "clown", "drum", "mandarin", "sturgeon"]
+myFish.splice(2, 0, 'drum', 'tuba'); // insert 'drum' at 2-index position
+// myFish is ["angel", "clown", "drum", "tuba", "mandarin", "sturgeon"]
 
 myFish.splice(2, 1); // remove 1 item at 2-index position (that is, "drum")
 // myFish is ["angel", "clown", "mandarin", "sturgeon"]
