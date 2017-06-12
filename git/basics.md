@@ -67,6 +67,7 @@ For example, if you want a branch that start off looking like the master branch 
 3. Sign up for [GitHub](http://www.github.com).
 
 # Resources
-[Git Init - Egghead Video](https://egghead.io/lessons/misc-practical-git-create-local-repos-with-git-init?course=practical-git-for-everyday-professional-use)  
-[Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)  
-[Getting Git Right](https://www.atlassian.com/git)
+* [Git Init - Egghead Video](https://egghead.io/lessons/misc-practical-git-create-local-repos-with-git-init?course=practical-git-for-everyday-professional-use)  
+* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)  
+* [Getting Git Right](https://www.atlassian.com/git)
+* [Learn Git Branching](http://learngitbranching.js.org/)

@@ -53,7 +53,7 @@ Example:
 ```
 
 ## IDs
-The **#id** selector styles the element with the specified id.  AS a convention, web developers use IDs to *select* one specific element.  
+The **#id** selector styles the element with the specified id.  As a convention, web developers use IDs to *select* one specific element.  
 Example:  
 ```html
 <p id="myid">This will be cyan!</p>

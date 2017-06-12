@@ -90,5 +90,5 @@ For more about the changes made from ES5 to ES6, visit [es6features](https://git
 2. Get as far as possible in the JavaScript section of [Free Code Camp](http://www.freecodecamp.com).
 
 # Resources
-1. [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
-2. [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
+* [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+* [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
