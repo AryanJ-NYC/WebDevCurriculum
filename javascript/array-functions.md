@@ -1,5 +1,10 @@
 All section headers are linked to the appropriate documentation.  Use the links for more information.
 # [Slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+The slice method takes two *optional* parameters, the start of the slice and the end of the slice.  
+If no parameters are passed to slice(), a copy of the array is returned.  
+If one parameter, *start*, is passed to slice(), a copy of the string from *start* (inclusive) to the end of the string is returned.  
+If two parameters are passed to slice(), *start* and *end*, a copy of the string from *start* (inclusive) to *end* (exclusive) is returned.
+
 ```javascript
 var arr = ['a', 'b', 'c', 'd'];
 var copy = arr.slice(); // ['a', 'b', 'c', 'd']
