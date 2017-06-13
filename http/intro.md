@@ -8,4 +8,4 @@ This request message includes information needed by the server to process the re
 This information is written in the request-line, the request headers and more.
 
 # Resources
-1. [HTTP Requests](https://www.tutorialspoint.com/http/http_requests.htm)
+* [HTTP Requests](https://www.tutorialspoint.com/http/http_requests.htm)

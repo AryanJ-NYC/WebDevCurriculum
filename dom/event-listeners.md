@@ -45,4 +45,4 @@ For a better user experience, the `value` of the input tag should be cleared whe
 1. Add an event listener so the user can hit enter on the keyboard to add to the list.
 
 # Resources
-1. [addEventListener() - Beau teaches JavaScript](https://www.youtube.com/watch?v=F3odgpghXzY&list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO&index=4)
+* [addEventListener() - Beau teaches JavaScript](https://www.youtube.com/watch?v=F3odgpghXzY&list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO&index=4)
