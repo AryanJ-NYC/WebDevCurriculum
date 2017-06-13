@@ -1,7 +1,3 @@
-[HTML Reference](http://www.w3schools.com/tags/default.asp)  
-[Use Thimble to practice what you learn](https://thimble.mozilla.org/)  
-[Use CodePen to practice what you learn](http://codepen.io)
-
 # Standard HTML Skeleton
 ```html
 <!DOCTYPE HTML>
@@ -119,3 +115,8 @@ Create accounts at the following sites:
 # Homework
 1. Complete the HTML sections of [FreeCodeCamp](http://www.freecodecamp.com/) and [Codecademy](https://www.codecademy.com/learn/learn-html-css).
 2. Experiment with HTML using [Thimble](https://thimble.mozilla.org/) or [CodePen](http://codepen.io).
+
+# Resources
+* [HTML Reference](http://www.w3schools.com/tags/default.asp)  
+* [Use Thimble to practice what you learn](https://thimble.mozilla.org/)  
+* [Use CodePen to practice what you learn](http://codepen.io)

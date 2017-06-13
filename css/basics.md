@@ -1,5 +1,4 @@
-[CSS Reference](http://www.w3schools.com/cssref/default.asp)
-
+# Using CSS
 ```css
 body {
   font-size: 12px;
@@ -18,7 +17,7 @@ In the examples above, *body* and *p* are the **selectors**.
 *font-size* and *background-color* are known as the **properties**.
 *12px* and *red* are known as **values**.
 
-What do selectors do? Properties? Values?
+What do selectors do? What about properties? What about values?
 
 # Types of Selectors
 
@@ -65,6 +64,12 @@ Example:
 }
 ```
 
+# Properties and Values
+Properties and value pairs define how an HTML element (whether selected by element, class or ID) should look.
+Different properties expect different value types.  For example, [`background-color`](https://www.w3schools.com/cssref/pr_background-color.asp) expects an RGB value (though it can take other values)
+while [`font-size`](https://www.w3schools.com/cssref/pr_font_font-size.asp) expects a numerical pixel value (though it can take others).
+Visit the [W3 website](https://www.w3schools.com/cssref/default.asp) of the CSS property you're interested in to learn more about the large number of CSS properties.
+
 # CSS Box Model
 Please review the [CSS box model](https://www.w3schools.com/css/css_boxmodel.asp).
 
@@ -77,3 +82,6 @@ Learn more selectors [here](http://www.w3schools.com/cssref/css_selectors.asp).
 # Homework
 1. Complete the CSS section of [FreeCodeCamp](http://www.freecodecamp.com/).
 2. Recreate the [Google homepage](https://www.google.com/).  Focus on the middle image and search bar; leave the header and footer for last.
+
+# Resources
+* [CSS Reference](http://www.w3schools.com/cssref/default.asp)
