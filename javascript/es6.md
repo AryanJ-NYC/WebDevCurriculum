@@ -65,16 +65,14 @@ var squared = arr.map(function (elem) {
 This allows developers to finally use string interpolation.
 
 ```javascript
-const artistName = 'prince',
-      searchType = 'artist',
-      url = `https://api.spotify.com/v1/search?q=${artistName}&type=${searchType}`; 
+const pokemonName = 'bulbasaur',
+      url = `https://pokeapi.co/api/v2/pokemon-species/${pokemonName}`; 
 ```
 
 Similarly, in ECMAScript 5:
 ```javascript
-var artistName = 'prince',
-    searchType = 'artist',
-    url = 'https://api.spotify.com/v1/search?q=' + artistName + '&type=' + searchType; // https://api.spotify.com/v1/search?q=prince&type=artist
+var pokemonName = 'bulbasaur',
+    url = 'https://pokeapi.co/api/v2/pokemon-species/' + pokemonName;
 ```
 
 For more about the changes made from ES5 to ES6, visit [es6features](https://github.com/lukehoban/es6features).
