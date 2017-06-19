@@ -9,6 +9,7 @@ and use other, pre-written components.
 2. In your command prompt or terminal, run `npm install -g create-react-app`.
 3. In your projects directory, run `create-react-app new-dir-name` where *new-dir-name* is the name of the app.
 4. `cd new-dir-name`
-5. `npm start`
+5. `npm start`  
+**Note:** If you already have npm installed, make sure it is updated to the most recent version.
 
 If you ran all the steps correctly, an application should be running at [http://localhost:3000/](http://localhost:3000/).
