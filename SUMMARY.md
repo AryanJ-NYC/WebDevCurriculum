@@ -17,3 +17,4 @@
   * [Making Requests](http/making-requests.md)
 * [React](react/intro.md)
   * [Hello, React!](react/hello-react.md)
+  * [JSX](react/jsx.md)
