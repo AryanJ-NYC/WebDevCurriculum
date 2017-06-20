@@ -1,6 +1,6 @@
 # [Introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
-As you explore Create React App's JavaScript files, you may notice "HTML" inside the JavaScript.
-Guess what?  It may look and feel like HTML but it's not HTML.
+As you explore Create React App's JavaScript files, you may notice "HTML" in the JavaScript files.
+It may look and feel like HTML but it's not HTML.
 
 JSX is a syntactical extension of JavaScript.  It allows developers to describe the user interface
 in a templating language while having the full power of a programming language.
