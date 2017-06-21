@@ -29,3 +29,6 @@ The following exercise must be done using 100% DOM manipulation. Do **not** modi
 1. Open a new Thimble project or use your text editor (it is preferred you use a text editor as it's better practice)
 2. Use the fetch template above to fetch information about your favorite Pokemon.
 3. Display relevant Pokemon information to the webpage.  A simple unordered list is fine.
+
+# Homework
+1. Take a look around [JSONPlaceHolder](https://jsonplaceholder.typicode.com/) and use their API to create a sample website.
