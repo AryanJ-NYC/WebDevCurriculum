@@ -112,8 +112,8 @@ Given the *topHomeRunHitters* variable and the filter() and reduce() functions,
 how would you calculate the sum of the number of home runs hit by players with more than 700 home runs?
 
 # Classwork
-1. [Array Double Challenge](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q13-array-double-challenge)
-2. [Array Sum Challenge](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q14-array-sum-challenge)
-3. Implement [StringToNums](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/advanced-array-methods/advanced-array-methods-exercises-2.md#q7-map-strings-to-nums)
-4. Implement [Count Odds and Evens](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/advanced-array-methods/advanced-array-methods-exercises-2.md#q12-count-odds-and-evens)
+1. [Array Double Challenge](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q13-array-double-challenge)
+2. [Array Sum Challenge](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q14-array-sum-challenge)
+3. Implement [StringToNums](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/advanced-array-methods/advanced-array-methods-exercises-2.md#q7-map-strings-to-nums)
+4. Implement [Count Odds and Evens](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/advanced-array-methods/advanced-array-methods-exercises-2.md#q12-count-odds-and-evens)
 5. Get started with [Functional Programming with JavaScript](http://reactivex.io/learnrx/)

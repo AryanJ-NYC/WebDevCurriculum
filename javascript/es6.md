@@ -79,9 +79,9 @@ For more about the changes made from ES5 to ES6, visit [es6features](https://git
 
 # Classwork
 1. Write a function that logs the numbers from 1 to n. For multiples of three, log "Fizz" instead of that number.  For the multiples of five, log "Buzz" instead of that number. For multiples of both three and five, log "FizzBuzz" instead.
-2. [Action](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q11-javascript-functions-7)
-3. [Temperature Converter](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q7-temperature-converter)
-4. [Cat and Mouse](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/objects-exercises.md#q6-javascript-simple-objects-3)
+2. [Action](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q11-javascript-functions-7)
+3. [Temperature Converter](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/functions-deep-dive/functions-exercises.md#q7-temperature-converter)
+4. [Cat and Mouse](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/objects-exercises.md#q6-javascript-simple-objects-3)
 
 # Homework
 1. Complete the JavaScript section of [Codecademy](https://www.codecademy.com/learn/learn-javascript).

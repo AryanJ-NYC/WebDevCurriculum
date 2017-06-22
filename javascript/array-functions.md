@@ -182,7 +182,7 @@ if (a.indexOf(7) === -1) {
 How can we test if an element DOES exist in the array?
 
 # Classwork
-1. [Stringify Two Arrays](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q7-stringify-two-arrays)
-2. [Remove from Array](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q10-remove-from-array)
-3. [Array String Plus](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q11-array-string-plus)
-4. [Array Last to First](https://github.com/C4Q/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q12-array-last-to-first)
+1. [Stringify Two Arrays](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q7-stringify-two-arrays)
+2. [Remove from Array](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q10-remove-from-array)
+3. [Array String Plus](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q11-array-string-plus)
+4. [Array Last to First](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/javascript-fundamentals/objects-and-arrays/array-methods-exercises.md#q12-array-last-to-first)
