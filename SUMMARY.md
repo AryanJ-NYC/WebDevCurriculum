@@ -18,4 +18,5 @@
 * [React](react/intro.md)
   * [Hello, React!](react/hello-react.md)
   * [JSX](react/jsx.md)
-  * [Components](react/components.md)
+  * [Components and Props](react/components.md)
+  * [State](react/state.md)
