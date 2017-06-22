@@ -66,13 +66,13 @@ This allows developers to finally use string interpolation.
 
 ```javascript
 const pokemonName = 'bulbasaur',
-      url = `https://pokeapi.co/api/v2/pokemon-species/${pokemonName}`; 
+      url = `http://pokeapi.co/api/v2/pokemon/${pokemonName}`;
 ```
 
 Similarly, in ECMAScript 5:
 ```javascript
 var pokemonName = 'bulbasaur',
-    url = 'https://pokeapi.co/api/v2/pokemon-species/' + pokemonName;
+    url = 'http://pokeapi.co/api/v2/pokemon/' + pokemonName;
 ```
 
 For more about the changes made from ES5 to ES6, visit [es6features](https://github.com/lukehoban/es6features).

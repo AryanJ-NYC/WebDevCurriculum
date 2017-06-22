@@ -7,7 +7,7 @@ in a templating language while having the full power of a programming language.
 
 ## Expressions
 Expressions can be embedded into JSX.  Review the following `render()` example:
-```javascript
+```jsx
 render() {
   return (
     <div>
@@ -19,7 +19,7 @@ render() {
 
 or similarly:
 
-```javascript
+```jsx
 sum (a, b) {
   return a + b;
 }

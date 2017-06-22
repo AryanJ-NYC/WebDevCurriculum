@@ -5,7 +5,8 @@ Please note that the `props` object is **read-only**.
 
 ## Example
 ### src/Welcome.js
-```javascript
+
+```jsx
 import React, { Component } from 'react';
 
 class Welcome extends Component {
@@ -20,11 +21,12 @@ class Welcome extends Component {
 
 export default Welcome;
 ```
+
 The `Welcome` component accepts a `props` argument called *name* and returns a React element
 as shown above.
 
 ### src/App.js
-```javascript
+```jsx
 import React, { Component } from 'react';
 import Welcome from './Welcome';
 
