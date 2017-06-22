@@ -6,7 +6,7 @@ A common pattern in web development is using HTTP requests to communicate with s
 There are several [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) that can communicate with servers.
 Let's examine GET requests.
 
-Go to [http://pokeapi.co/api/v2/pokemon-species/pikachu](http://pokeapi.co/api/v2/pokemon-species/pikachu/).
+Go to [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts).
 What do you see?.  Wouldn't it be great to use this already existing information to create a webpage?
 
 ## [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
@@ -14,21 +14,24 @@ The fetch API is built into most modern browsers.  It provides an easy way for d
 Please keep in mind that the fetch API is [asynchronous](https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean).
 
 ```javascript
-fetch('https://pokeapi.co/api/v2/pokemon-species/pikachu/')
+fetch('https://jsonplaceholder.typicode.com/posts/')
 .then(res => res.json())
-.then(pokemon => {
-  // do things with your pokemon object here
+.then(posts => {
+  // do things with your posts array here
   // perhaps we can display some of that information on your webpage
 });
 ```
 
-Remember [DOM manipulation](../dom/dom-manipulation.html)?  Great! Let's combine that with a fetch request to display information about our Pokemon.
+Remember [DOM manipulation](../dom/dom-manipulation.html)?  Great! Let's combine that with a fetch request to display information about the posts.
 
 # Class Exercise
-The following exercise must be done using 100% DOM manipulation. Do **not** modify *index.html*.
-1. Open a new Thimble project or use your text editor (it is preferred you use a text editor as it's better practice)
-2. Use the fetch template above to fetch information about your favorite Pokemon.
-3. Display relevant Pokemon information to the webpage.  A simple unordered list is fine.
+1. Create a new file in your text editor.
+2. Use the fetch template above to fetch post information.
+3. Display relevant post information to the webpage.  A simple unordered list is fine.
 
 # Homework
 1. Take a look around [JSONPlaceHolder](https://jsonplaceholder.typicode.com/) and use their API to create a sample website.
+
+# Resources
+1. [Fetch API](https://www.youtube.com/watch?v=g6-ZwZmRncs)
+2. [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free JSON APIs for use in web development.
