@@ -44,3 +44,6 @@ export default App;
 
 The `App` component renders a `div` component with two `Welcome` components as children.  
 **Note:** A component must return a single root element.  In the example above, `<div>` is the root element.
+
+# Classwork
+* Create a [Store Listing App](https://github.com/AryanJ-NYC/web-curriculum/blob/master/lessons/react/projects/store-listing/README.md)
