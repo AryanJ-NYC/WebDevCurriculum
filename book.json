@@ -1,6 +1,6 @@
 {
   "title": "Web Dev Curriculum",
-  "plugins": ["edit-link", "github"],
+  "plugins": ["prism", "-highlight", "edit-link", "github"],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/AryanJ-NYC/WebDevCurriculum/tree/master",
