@@ -20,3 +20,4 @@
   * [JSX](react/jsx.md)
   * [Components and Props](react/components.md)
   * [State](react/state.md)
+  * [Lifecycle](react/lifecycle.md)
