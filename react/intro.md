@@ -13,3 +13,7 @@ and use other, pre-written components.
 **Note:** If you already have npm installed, make sure it is updated to the most recent version.
 
 If you ran all the steps correctly, an application should be running at [http://localhost:3000/](http://localhost:3000/).
+
+## Resources
+* [React Documentation](https://facebook.github.io/react/)
+* [React Express](http://www.react.express/)
