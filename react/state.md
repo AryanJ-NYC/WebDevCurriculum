@@ -7,7 +7,6 @@ It was a list with an input field and a button that appended the value of the in
 
 Let's rewrite the list in React.
 
-## src/List.js
 ```jsx
 import React, { Component } from 'react';
 
@@ -60,7 +59,13 @@ Please note how the array of strings is made into an array of JSX list items in 
 Note that we do not mutate `state` directly. As noted in the [React documentation],
 we should *treat this.state as if it were immutable*.
 
-# Classwork
+# Exercises
+## Exercise 1
+1. Create a component that initializes and renders a number.
+2. Add + and a - buttons to this component.
+3. The + and - button should increment or decrement the number, respectively.
+
+## Exercise 2
 1. Rename `List.js` to `TodoList.js`.
 1. Remove the bullet points from the unordered list.
 2. Create a new React component: `TodoItem.js`.
