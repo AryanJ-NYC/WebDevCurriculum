@@ -20,5 +20,6 @@
   * [JSX](react/jsx.md)
   * [Components and Props](react/components.md)
   * [State](react/state.md)
+  * [PropTypes](react/proptypes.md)
   * [Lifecycle](react/lifecycle.md)
   * [Router](react/router.md)
