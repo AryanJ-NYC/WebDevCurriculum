@@ -15,17 +15,19 @@ class List extends Component {
     super();
     this.state = { list: [] };
     this.addToList = this.addToList.bind(this);
+    this.handleChange = this.handleChange.bind(this);
   }
 
   addToList(event) {
     event.preventDefault();
-    const itemToAdd = document.getElementById('item-to-add');
-    if (itemToAdd.value) {
-      const currentList = this.state.list.slice();
-      currentList.push(itemToAdd.value);
-      this.setState({ list: currentList });
-      itemToAdd.value = '';
-    }
+    const currentList = this.state.list.slice();
+    currentList.push(this.state.currentValue);
+    this.setState({ list: currentList, currentValue: '' });
+  }
+
+  handleChange(event) {
+    const value = event.target.value;
+    this.setState({ currentValue: value });
   }
 
   render() {
@@ -37,7 +39,7 @@ class List extends Component {
           {listItems}
         </ul>
         <form onSubmit={this.addToList}>
-          <input type="text" id="item-to-add" />
+          <input type="text" value={this.state.currentValue} onChange={this.handleChange} />
           <button>Add to List</button>
         </form>
       </div>
