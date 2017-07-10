@@ -7,6 +7,7 @@ It was a list with an input field and a button that appended the value of the in
 
 Let's rewrite the list in React.
 
+## src/List.js
 ```jsx
 import React, { Component } from 'react';
 

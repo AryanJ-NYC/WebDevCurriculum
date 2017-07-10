@@ -24,3 +24,4 @@
   * [Lifecycle](react/lifecycle.md)
   * [Router](react/router.md)
 * [re-base](re-base/intro.md)
+  * [Syncing React State with Firebase](re-base/syncstate.md)
