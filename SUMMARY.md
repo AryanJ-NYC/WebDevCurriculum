@@ -23,3 +23,4 @@
   * [PropTypes](react/proptypes.md)
   * [Lifecycle](react/lifecycle.md)
   * [Router](react/router.md)
+* [re-base](re-base/intro.md)
