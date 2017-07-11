@@ -14,15 +14,16 @@ To get started with re-base, carefully follow the instructions below:
 1. Go to the [Firebase website](https://firebase.google.com/).
 2. Click the *Get Started* button.
 3. Click the *Add Project* button and submit the relevant information.
-4. Click *Database* on the left sidebar
+4. Click *Database* on the left sidebar.
 5. Click *Rules* on the top navbar.  Set both *read* and *write* properties to `true`.
-6. Click the *Add Firebase to your web app* button and keep the modal open for reference for the eighth step.
-7. Install `re-base` with:
+6. Click back to *Overview* in the left sidebar.
+7. Click the *Add Firebase to your web app* button and keep the modal open for reference for the ninth step.
+8. Install `re-base` with:
 ```bash
 npm install re-base --save
 ```
 8. Create a new file in your React app's `src` folder named `rebase.js`.
-Using the modal opened in step six, copy and paste the appropriate information:
+Using the modal opened in step seven, copy and paste the appropriate information:
 ## src/rebase.js
 
 ```js
